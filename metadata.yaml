@@ -1,0 +1,38 @@
+_repo: Sydan-unhotettu-Komedia-yhdessa-naytoksessa_53715
+_version: 0.0.1
+alternative_title: Das Herz vergessen. Finnish
+contributor:
+  translator:
+    agent_name: Jalava, Antti
+    alias: Almberg, Anton
+    birthdate: 1846
+    deathdate: 1909
+    gutenberg_agent_id: '9456'
+    url: http://www.gutenberg.org/2009/agents/9456
+creator:
+  author:
+    agent_name: Putlitz, Gustav Heinrich Gans, Edler Herr von und zu
+    aliases:
+    - Putlitz, G. zu (Gustav)
+    - Putlitz, Gustav zu
+    - Zu Putlitz, Gustav
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '47496'
+    url: http://www.gutenberg.org/2009/agents/47496
+description: ''
+gutenberg_issued: '2016-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53715'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into Finnish'
+- GITenberg
+title: 'Sydän unhotettu: Komedia yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/53715
